@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/avinashhnishal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashhnishal&repo=github-readme-stats" />
+  <img align="center" src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashhnishal&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)/>
 </a>
 <a href="https://github.com/avinashhnishal/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashhnishal&repo=convoychat" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashhnishal&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)    [![Avinash's github stats](https://github-readme-stats.vercel.app/api?username=avinashhnishal&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+ [![Avinash's github stats](https://github-readme-stats.vercel.app/api?username=avinashhnishal&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
