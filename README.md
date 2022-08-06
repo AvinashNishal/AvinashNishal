@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashhnishal&langs_count=5&theme=radical&hide_border=True&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)                   [![Avinash's github stats](https://github-readme-stats.vercel.app/api?username=avinashhnishal&count_private=true&show_icons=true&theme=radical&hide_rank=false&hide_border=True&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avinashhnishal&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
