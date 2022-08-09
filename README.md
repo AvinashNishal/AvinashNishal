@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Avinash. I love programming. Python is my favorite language. I know some basics of web development. Continuing my journey through the programming world
+I am Avinash. I love programming. Python is my favorite language. I know some basics of web development. Continuing my journey through the programming world...!
 
 My Github Stats
 -----------------
