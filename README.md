@@ -14,4 +14,4 @@
 [![Avinash's github stats](https://github-readme-stats.vercel.app/api?username=avinashhnishal&count_private=true&show_icons=true&theme=radical&hide_rank=false&hide_border=True&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)<br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashhnishal&langs_count=5&theme=radical&hide_border=True&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)    
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashhnishal&" alt="avinashhnishal" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avinashhnishal&theme=dark)](https://git.io/streak-stats)
