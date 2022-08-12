@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F73BA7&center=true&width=435&lines=Hi%2C+I'm+Avinash)](https://git.io/typing-svg)
 <h3 align="center">A hobby programmer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=avinashhnishal&label=Profile%20views&color=0e75b6&style=flat" alt="avinashhnishal" /> </p>
